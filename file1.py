@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 12 18:13:58 2020
+Spyder Editor
 
-@author: Venkata Chaitanya
+This is a temporary script file.
 """
-
+List1 =[1,10,12,13]
